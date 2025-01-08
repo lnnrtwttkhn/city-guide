@@ -1,5 +1,33 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "",
+    "section": "",
+    "text": "Food\n\n\n\nFind out where to get the best Franzbrötchen!\n\n\n\n\n\nlnnrtwttkhn\n\n\nJanuary 8, 2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#hamburg-guide",
+    "href": "index.html#hamburg-guide",
+    "title": "",
+    "section": "",
+    "text": "Food\n\n\n\nFind out where to get the best Franzbrötchen!\n\n\n\n\n\nlnnrtwttkhn\n\n\nJanuary 8, 2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#rotterdam-guide",
+    "href": "index.html#rotterdam-guide",
+    "title": "",
+    "section": "Rotterdam Guide",
+    "text": "Rotterdam Guide\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "guide/template.html",
+    "href": "guide/template.html",
+    "title": "Your recommendation goes here",
+    "section": "",
+    "text": "A detailed description of your recommendation goes here.\nFor example, you could describe more details of your recommendation and where to find it in the city."
+  },
+  {
     "objectID": "CONTRIBUTING.html",
     "href": "CONTRIBUTING.html",
     "title": "Contributing to this project",
@@ -21,13 +49,6 @@
     "text": "By contributing to this project, you agree that your contributions will be licensed under its MIT License.\nThank you for your contributions! Together, we can make this project even better."
   },
   {
-    "objectID": "guide/template.html",
-    "href": "guide/template.html",
-    "title": "Your recommendation goes here",
-    "section": "",
-    "text": "A detailed description of your recommendation goes here.\nFor example, you could describe more details of your recommendation and where to find it in the city."
-  },
-  {
     "objectID": "guide/hamburg/franzbroetchen.html",
     "href": "guide/hamburg/franzbroetchen.html",
     "title": "Franzbrötchen",
@@ -47,26 +68,5 @@
     "title": "Franzbrötchen",
     "section": "Where?",
     "text": "Where?\n“Where to find the best Franzbrötchen?” is probably the most hotly debated question in Hamburg.\nHere are my top-three recommended places:\n\nDie Kleine Konditorei\nBäckerei Hönig\nCafé Luise"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "",
-    "section": "",
-    "text": "Food\n\n\n\nFind out where to get the best Franzbrötchen!\n\n\n\n\n\nlnnrtwttkhn\n\n\nJanuary 8, 2025\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html#hamburg-guide",
-    "href": "index.html#hamburg-guide",
-    "title": "",
-    "section": "",
-    "text": "Food\n\n\n\nFind out where to get the best Franzbrötchen!\n\n\n\n\n\nlnnrtwttkhn\n\n\nJanuary 8, 2025\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html#rotterdam-guide",
-    "href": "index.html#rotterdam-guide",
-    "title": "",
-    "section": "Rotterdam Guide",
-    "text": "Rotterdam Guide\n\n\n\n\n\nNo matching items"
   }
 ]
