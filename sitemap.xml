@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://lennartwittkuhn.com/uhh-eur-city-guide/index.html</loc>
-    <lastmod>2024-10-17T15:31:21.753Z</lastmod>
+    <loc>https://lennartwittkuhn.com/city-guide/CONTRIBUTING.html</loc>
+    <lastmod>2025-01-08T11:07:44.799Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/uhh-eur-city-guide/guide/hamburg/franzbroetchen.html</loc>
-    <lastmod>2024-10-17T15:31:21.777Z</lastmod>
+    <loc>https://lennartwittkuhn.com/city-guide/guide/template.html</loc>
+    <lastmod>2025-01-08T11:07:44.812Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lennartwittkuhn.com/city-guide/guide/hamburg/franzbroetchen.html</loc>
+    <lastmod>2025-01-08T11:07:44.811Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lennartwittkuhn.com/city-guide/index.html</loc>
+    <lastmod>2025-01-08T11:07:44.812Z</lastmod>
   </url>
 </urlset>

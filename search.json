@@ -1,24 +1,31 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "",
+    "objectID": "CONTRIBUTING.html",
+    "href": "CONTRIBUTING.html",
+    "title": "Contributing to this project",
     "section": "",
-    "text": "Food\n\n\n\nFind out where to get the best Franzbrötchen!\n\n\n\n\n\nlnnrtwttkhn\n\n\nOctober 17, 2024\n\n\n\n\n\n\nNo matching items"
+    "text": "Thank you for your interest in contributing to this project!\nWhether you’re fixing bugs, improving documentation, or adding new city recommendations, your input is greatly appreciated.\nPlease follow the guidelines below to contribute effectively.\n\n\n\n\nTo add a new entry to the repository, please follow these steps:\n\nNavigate to the guide folder: Locate the /guide subfolder in the project directory.\nChoose a city folder or create a new one: Inside the /guide folder, navigate to the city for which you would like to add an entry (e.g., hamburg). If the city does not yet exist, please create a new folder.\nCreate a new file: Create a new .qmd file within the city subfolder for your recommendation. To simplify this process, you can copy an existing entry file as a template or use the template.qmd file as a starting point.\nAdd your recommendation: Populate the new .qmd file with the details of your recommendation. Ensure that you follow the formatting and structure of existing entries for consistency.\nCommit your changes:\nOnce you’ve added your recommendation, commit your changes with a meaningful commit message.\n\n\n\n\n\nBy contributing to this project, you agree that your contributions will be licensed under its MIT License.\nThank you for your contributions! Together, we can make this project even better."
   },
   {
-    "objectID": "index.html#hamburg-guide",
-    "href": "index.html#hamburg-guide",
-    "title": "",
+    "objectID": "CONTRIBUTING.html#how-to-contribute",
+    "href": "CONTRIBUTING.html#how-to-contribute",
+    "title": "Contributing to this project",
     "section": "",
-    "text": "Food\n\n\n\nFind out where to get the best Franzbrötchen!\n\n\n\n\n\nlnnrtwttkhn\n\n\nOctober 17, 2024\n\n\n\n\n\n\nNo matching items"
+    "text": "To add a new entry to the repository, please follow these steps:\n\nNavigate to the guide folder: Locate the /guide subfolder in the project directory.\nChoose a city folder or create a new one: Inside the /guide folder, navigate to the city for which you would like to add an entry (e.g., hamburg). If the city does not yet exist, please create a new folder.\nCreate a new file: Create a new .qmd file within the city subfolder for your recommendation. To simplify this process, you can copy an existing entry file as a template or use the template.qmd file as a starting point.\nAdd your recommendation: Populate the new .qmd file with the details of your recommendation. Ensure that you follow the formatting and structure of existing entries for consistency.\nCommit your changes:\nOnce you’ve added your recommendation, commit your changes with a meaningful commit message."
   },
   {
-    "objectID": "index.html#rotterdam-guide",
-    "href": "index.html#rotterdam-guide",
-    "title": "",
-    "section": "Rotterdam Guide",
-    "text": "Rotterdam Guide\n\n\n\n\n\nNo matching items"
+    "objectID": "CONTRIBUTING.html#license",
+    "href": "CONTRIBUTING.html#license",
+    "title": "Contributing to this project",
+    "section": "",
+    "text": "By contributing to this project, you agree that your contributions will be licensed under its MIT License.\nThank you for your contributions! Together, we can make this project even better."
+  },
+  {
+    "objectID": "guide/template.html",
+    "href": "guide/template.html",
+    "title": "Your recommendation goes here",
+    "section": "",
+    "text": "A detailed description of your recommendation goes here.\nFor example, you could describe more details of your recommendation and where to find it in the city."
   },
   {
     "objectID": "guide/hamburg/franzbroetchen.html",
@@ -40,5 +47,26 @@
     "title": "Franzbrötchen",
     "section": "Where?",
     "text": "Where?\n“Where to find the best Franzbrötchen?” is probably the most hotly debated question in Hamburg.\nHere are my top-three recommended places:\n\nDie Kleine Konditorei\nBäckerei Hönig\nCafé Luise"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "",
+    "section": "",
+    "text": "Food\n\n\n\nFind out where to get the best Franzbrötchen!\n\n\n\n\n\nlnnrtwttkhn\n\n\nJanuary 8, 2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#hamburg-guide",
+    "href": "index.html#hamburg-guide",
+    "title": "",
+    "section": "",
+    "text": "Food\n\n\n\nFind out where to get the best Franzbrötchen!\n\n\n\n\n\nlnnrtwttkhn\n\n\nJanuary 8, 2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#rotterdam-guide",
+    "href": "index.html#rotterdam-guide",
+    "title": "",
+    "section": "Rotterdam Guide",
+    "text": "Rotterdam Guide\n\n\n\n\n\nNo matching items"
   }
 ]
