@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "",
     "section": "",
-    "text": "Food\n\n\n\nFind out where to get the best Franzbrötchen!\n\n\n\n\n\nlnnrtwttkhn\n\n\nJanuary 8, 2025\n\n\n\n\n\n\nNo matching items"
+    "text": "Sightseeing\n\n\n\nHow to feel more of the harbor?\n\n\n\n\n\nrezahakimazar\n\n\nJanuary 10, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFood\n\n\n\nFind out where to get the best Franzbrötchen!\n\n\n\n\n\nlnnrtwttkhn\n\n\nJanuary 10, 2025\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html#hamburg-guide",
     "href": "index.html#hamburg-guide",
     "title": "",
     "section": "",
-    "text": "Food\n\n\n\nFind out where to get the best Franzbrötchen!\n\n\n\n\n\nlnnrtwttkhn\n\n\nJanuary 8, 2025\n\n\n\n\n\n\nNo matching items"
+    "text": "Sightseeing\n\n\n\nHow to feel more of the harbor?\n\n\n\n\n\nrezahakimazar\n\n\nJanuary 10, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFood\n\n\n\nFind out where to get the best Franzbrötchen!\n\n\n\n\n\nlnnrtwttkhn\n\n\nJanuary 10, 2025\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html#rotterdam-guide",
@@ -21,11 +21,25 @@
     "text": "Rotterdam Guide\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "guide/template.html",
-    "href": "guide/template.html",
-    "title": "Your recommendation goes here",
+    "objectID": "guide/hamburg/landungsbruecken.html",
+    "href": "guide/hamburg/landungsbruecken.html",
+    "title": "Landungsbrücken",
     "section": "",
-    "text": "A detailed description of your recommendation goes here.\nFor example, you could describe more details of your recommendation and where to find it in the city."
+    "text": "Landungsbrücken (landing bridges) is a historic landing pier located along the Elbe River, near the famous Reeperbahn street."
+  },
+  {
+    "objectID": "guide/hamburg/landungsbruecken.html#where",
+    "href": "guide/hamburg/landungsbruecken.html#where",
+    "title": "Landungsbrücken",
+    "section": "",
+    "text": "Landungsbrücken (landing bridges) is a historic landing pier located along the Elbe River, near the famous Reeperbahn street."
+  },
+  {
+    "objectID": "guide/hamburg/landungsbruecken.html#what-to-do",
+    "href": "guide/hamburg/landungsbruecken.html#what-to-do",
+    "title": "Landungsbrücken",
+    "section": "What to do?",
+    "text": "What to do?\nWatching the sunset and hopping on a ferry are my favorite activities at Landungsbrücken. You can also visit museum ships, such as the Cap San Diego, via Landungsbrücken."
   },
   {
     "objectID": "CONTRIBUTING.html",
@@ -47,6 +61,13 @@
     "title": "Contributing to this project",
     "section": "",
     "text": "By contributing to this project, you agree that your contributions will be licensed under its MIT License.\nThank you for your contributions! Together, we can make this project even better."
+  },
+  {
+    "objectID": "guide/template.html",
+    "href": "guide/template.html",
+    "title": "Your recommendation goes here",
+    "section": "",
+    "text": "A detailed description of your recommendation goes here.\nFor example, you could describe more details of your recommendation and where to find it in the city."
   },
   {
     "objectID": "guide/hamburg/franzbroetchen.html",
