@@ -46,6 +46,17 @@
         "content",
         "code"
       ]
+    },
+    {
+      "login": "lea-schumacher",
+      "name": "lea-schumacher",
+      "avatar_url": "https://avatars.githubusercontent.com/u/190727139?v=4",
+      "profile": "https://github.com/lea-schumacher",
+      "contributions": [
+        "bug",
+        "content",
+        "code"
+      ]
     }
   ],
   "commitType": "docs"
