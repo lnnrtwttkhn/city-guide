@@ -1,0 +1,18 @@
+---
+title: "Rotterdam Kralingse Bos"
+description: "Kralingse Bos is a beautiful lake near the university. It is an great place for picnics or stand-up paddling."
+author:
+  - name: "JulEsters"
+    url: "https://github.com/JulEsters"
+# you can add more categories here (please add one category per line):
+categories:
+  - Travel
+---
+
+To Do's: 
+- Ride your bike 
+- Stand-up paddeling 
+- Watch the sunset 
+- Organize a picnic
+- Great running path 
+- Climbing park 
