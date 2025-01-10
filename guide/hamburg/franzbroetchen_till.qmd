@@ -1,0 +1,8 @@
+title: "a really great Franzbrötchen is sold at kleine konditorei in Eimsbüttel"
+description: "I recommend the Franzbrötchen at kleine konditorei in Eimsbüttel"
+author:
+  - name: "AlbertoTombaHH"
+    url: "https://github.com/AlbertoTombaHH"
+# you can add more categories here (please add one category per line):
+categories:
+  - Template
