@@ -1,0 +1,17 @@
+---
+title: "Landungsbrücken"
+description: "How to feel more of the harbor?"
+author:
+  - name: "rezahakimazar"
+    url: "https://github.com/rezahakimazar"
+# you can add more categories here (please add one category per line):
+categories:
+  - Sightseeing
+---
+
+## Where?
+Landungsbrücken (landing bridges) is a historic landing pier located along the Elbe River, near the famous Reeperbahn street.
+
+## What to do?
+Watching the sunset and hopping on a ferry are my favorite activities at Landungsbrücken.
+You can also visit museum ships, such as the Cap San Diego, via Landungsbrücken.
