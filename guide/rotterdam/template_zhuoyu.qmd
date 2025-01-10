@@ -1,9 +1,9 @@
 ---
-title: "Your recommendation goes here"
-description: "A short description of your recommendation goes here"
+title: "recommendation for visiting Rotterdam"
+description: "walk along the Nieuwe maas river"
 author:
-  - name: "Your GitHub user name goes here"
-    url: "The URL to your GitHub profile goes here"
+  - name: "joyce-shi-github"
+    url: "https://github.com/joyce-shi-github"
 # you can add more categories here (please add one category per line):
 categories:
   - Template
