@@ -35,6 +35,17 @@
         "talk",
         "platform"
       ]
+    },
+    {
+      "login": "rezahakimazar",
+      "name": "Reza Hakimazar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/170933224?v=4",
+      "profile": "https://github.com/rezahakimazar",
+      "contributions": [
+        "bug",
+        "content",
+        "code"
+      ]
     }
   ],
   "commitType": "docs"
