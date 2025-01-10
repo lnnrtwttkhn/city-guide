@@ -1,0 +1,11 @@
+---
+title: "Kiosk Recommendation: Bigi's"
+description: "Bigis is the best kiosk in Hamburg."
+author:
+  - name: "itsgitfam"
+    url: "https://github.com/itsgitfam"
+
+categories:
+  - Kiosk
+---
+Visit Bigis!! The owner is very friendly and it's fun to just sit in front of the kiosk, talk to new people and enjoy a nice cold beverage :) Great way to start a night out or to just hang. 'Papa' as we like to call him is always down for a chat, he even said we're like family (even though he doesnt always remember who we are lol) - hence the name. It's located in the Schanze and always worth a visit.
