@@ -18,7 +18,7 @@
     "href": "index.html#rotterdam-guide",
     "title": "",
     "section": "Rotterdam Guide",
-    "text": "Rotterdam Guide\n\n\n\n\n\n\n\n\n\n\nAsian Restaurant\n\n\n\n\n\n\nRestaurant\n\n\n\nAsian restaurant recommendations in Rotterdam\n\n\n\n\n\nTingsterr\n\n\nJanuary 13, 2025\n\n\n\n\n\n\nNo matching items"
+    "text": "Rotterdam Guide\n\n\n\n\n\n\n\n\n\n\nRotterdam guide book\n\n\n\n\n\n\nFood and chill\n\n\n\nPlaces to go when visiting Rotterdam!\n\n\n\n\n\njoyce-shi-github\n\n\nJanuary 13, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nAsian Restaurant\n\n\n\n\n\n\nRestaurant\n\n\n\nAsian restaurant recommendations in Rotterdam\n\n\n\n\n\nTingsterr\n\n\nJanuary 13, 2025\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "guide/hamburg/franzbroetchen.html",
@@ -56,6 +56,13 @@
     "text": "Rotterdam is a pretty international city, featuring restaurants originating from all over the world. Below are some Asian restaurants that are quite popular among the Asians in the city.\n\nSeoul Sista Seoul Sista is an all-you-can-eat Korean BBQ. Our Korean colleague said it’s ‘authentic enough’\nSoju Bar Also a Korean restaurant but this time for fried chicken. It is said that their Bibimbap is great as well. Very popular\nLe Souq Nice and authentic Lebanese restaurant that all my colleagues love :) They offer various sorts of appetizers/starters that you could explore all different flavors."
   },
   {
+    "objectID": "guide/template.html",
+    "href": "guide/template.html",
+    "title": "Your recommendation goes here",
+    "section": "",
+    "text": "A detailed description of your recommendation goes here.\nFor example, you could describe more details of your recommendation and where to find it in the city."
+  },
+  {
     "objectID": "CONTRIBUTING.html",
     "href": "CONTRIBUTING.html",
     "title": "Contributing to this project",
@@ -77,11 +84,25 @@
     "text": "By contributing to this project, you agree that your contributions will be licensed under its MIT License.\nThank you for your contributions! Together, we can make this project even better."
   },
   {
-    "objectID": "guide/template.html",
-    "href": "guide/template.html",
-    "title": "Your recommendation goes here",
+    "objectID": "guide/rotterdam/recommendations-zhuoyu.html",
+    "href": "guide/rotterdam/recommendations-zhuoyu.html",
+    "title": "Rotterdam guide book",
     "section": "",
-    "text": "A detailed description of your recommendation goes here.\nFor example, you could describe more details of your recommendation and where to find it in the city."
+    "text": "walk along the Nieuwe maas river.\n\ngo to visit Kijk-Kubus for cube houses."
+  },
+  {
+    "objectID": "guide/rotterdam/recommendations-zhuoyu.html#place-to-go",
+    "href": "guide/rotterdam/recommendations-zhuoyu.html#place-to-go",
+    "title": "Rotterdam guide book",
+    "section": "",
+    "text": "walk along the Nieuwe maas river.\n\ngo to visit Kijk-Kubus for cube houses."
+  },
+  {
+    "objectID": "guide/rotterdam/recommendations-zhuoyu.html#place-to-eat",
+    "href": "guide/rotterdam/recommendations-zhuoyu.html#place-to-eat",
+    "title": "Rotterdam guide book",
+    "section": "Place to eat",
+    "text": "Place to eat\n\nMarkthal is a place with different types of food and souvenir gifts."
   },
   {
     "objectID": "guide/hamburg/landungsbruecken.html",
