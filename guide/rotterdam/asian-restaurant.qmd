@@ -1,0 +1,23 @@
+---
+title: "Asian Restaurant"
+description: "Asian restaurant recommendations in Rotterdam"
+author:
+  - name: "Tingsterr"
+    url: "https://github.com/Tingsterr"
+# you can add more categories here (please add one category per line):
+categories:
+  - Restaurant
+---
+
+## Overview
+
+Rotterdam is a pretty international city, featuring restaurants originating from all over the world. Below are some Asian restaurants that are quite popular among the Asians in the city. 
+
+  - Seoul Sista
+    Seoul Sista is an all-you-can-eat Korean BBQ. Our Korean colleague said it's 'authentic enough'
+    
+  - Soju Bar
+    Also a Korean restaurant but this time for fried chicken. It is said that their Bibimbap is great as well. Very popular
+    
+  - Le Souq
+    Nice and authentic Lebanese restaurant that all my colleagues love :) They offer various sorts of appetizers/starters that you could explore all different flavors. 
