@@ -12,6 +12,3 @@ categories:
 A detailed description of your recommendation goes here.
 
 For example, you could describe more details of your recommendation and where to find it in the city.
-
-Zhuoyu's recommendation for visiting Rotterdam:
-walk along the Nieuwe maas river.
