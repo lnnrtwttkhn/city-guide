@@ -57,6 +57,17 @@
         "content",
         "code"
       ]
+    },
+    {
+      "login": "Tingsterr",
+      "name": "Tingsterr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118810486?v=4",
+      "profile": "https://github.com/Tingsterr",
+      "contributions": [
+        "bug",
+        "content",
+        "code"
+      ]
     }
   ],
   "commitType": "docs"
