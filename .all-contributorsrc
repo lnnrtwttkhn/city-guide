@@ -68,6 +68,17 @@
         "content",
         "code"
       ]
+    },
+    {
+      "login": "joyce-shi-github",
+      "name": "Zhuoyu Shi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67670180?v=4",
+      "profile": "https://github.com/joyce-shi-github",
+      "contributions": [
+        "bug",
+        "content",
+        "code"
+      ]
     }
   ],
   "commitType": "docs"
