@@ -1,0 +1,24 @@
+---
+title: "Rotterdam guide book"
+description: "Places to go when visiting Rotterdam!"
+author:
+  - name: "joyce-shi-github"
+    url: "https://github.com/joyce-shi-github"
+# you can add more categories here (please add one category per line):
+categories:
+  - Food and chill
+---
+
+## Place to go
+
+-   walk along the Nieuwe maas river.
+
+    ![](images/clipboard-1047228396.png)
+
+-   go to visit Kijk-Kubus for cube houses.
+
+    ![](images/clipboard-2520656533.png)
+
+## Place to eat
+
+-   [Markthal](https://markthal.nl/en/) is a place with different types of food and souvenir gifts.
