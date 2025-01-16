@@ -79,6 +79,17 @@
         "content",
         "code"
       ]
+    },
+    {
+      "login": "miriamlucie",
+      "name": "miriamlucie",
+      "avatar_url": "https://avatars.githubusercontent.com/u/190825294?v=4",
+      "profile": "https://github.com/miriamlucie",
+      "contributions": [
+        "bug",
+        "content",
+        "code"
+      ]
     }
   ],
   "commitType": "docs"
