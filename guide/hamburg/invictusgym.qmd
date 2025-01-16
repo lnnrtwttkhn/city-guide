@@ -9,15 +9,13 @@ categories:
   - activities
   - sports
 ---
+
 Name: Invictus Gym
 Location: Hamburg-Bergedorf
 
-# What´s special about this gym?
+## What´s special about this gym?
 
-- It´s a high-end gym with lots of bodybuilding pros training and coaching there
-
+- It's a high-end gym with lots of bodybuilding pros training and coaching there
 - There you can find the best training equipment for bodybuilding-, powerlifting- or fitness-related goals
-
 - Usually the gym is quite empty and you have all the weights for yourself :-)
-
 - Sometimes you can pet the dogs Urmel and Emma that belong to the gym owner/staff members.
