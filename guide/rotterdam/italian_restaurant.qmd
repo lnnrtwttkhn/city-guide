@@ -1,0 +1,16 @@
+---
+title: "Italian restaurants in Rotterdam"
+description: "Adding a recommendation for Italian restaurants in Rotterdam"
+author:
+  - name: "valmag"
+    url: "https://github.com/valmag"
+# you can add more categories here (please add one category per line):
+categories:
+  - Restaurants
+---
+
+There are a couple of nice Italian restaurants that could be added to the city guide for Rotterdam:
+
+- Old Scuola: available in two locations (Centre, West), you can find great pizza here and a nice selection of appetizers.
+
+- Panzerò: very close to the Marktal, here you can find traditional panzerotti from Puglia (South Italy) which are very good small fried pizzas filled with delicious ingredients!
