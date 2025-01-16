@@ -1,5 +1,5 @@
 ---
-title: "Add gym"
+title: "Invictus Gym"
 description: "Best gym of Hamburg (and of Germany)"
 author:
   - name: miriamlucie
