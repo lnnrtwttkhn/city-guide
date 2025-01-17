@@ -101,6 +101,17 @@
         "content",
         "code"
       ]
+    },
+    {
+      "login": "aunenua",
+      "name": "aunenua",
+      "avatar_url": "https://avatars.githubusercontent.com/u/190828412?v=4",
+      "profile": "https://github.com/aunenua",
+      "contributions": [
+        "bug",
+        "content",
+        "code"
+      ]
     }
   ],
   "commitType": "docs"
