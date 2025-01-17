@@ -1,0 +1,20 @@
+---
+title: "Botanischer Garten"
+description: "A beautiful place during summer time"
+author:
+  - name: "aunenua"
+    url: "https://github.com/aunenua"
+# you can add more categories here (please add one category per line):
+categories:
+  - Travel
+---
+
+The Botanic Garden in Hamburg Klein Flottbek is a very nice place to visit during summer. 
+
+## Where?
+
+Just get off the S1 at the "Klein Flottbek" stop and you are right in front of it :)
+
+## What to do?
+
+Whether it is walking through a bamboo forest, sitting underneath big mammut trees or watching turtles sunbathe on hot stones in the water - big recommendation! 
