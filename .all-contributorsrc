@@ -123,6 +123,17 @@
         "content",
         "code"
       ]
+    },
+    {
+      "login": "avaaz99",
+      "name": "avaaz99",
+      "avatar_url": "https://avatars.githubusercontent.com/u/190830149?v=4",
+      "profile": "https://github.com/avaaz99",
+      "contributions": [
+        "code",
+        "content",
+        "bug"
+      ]
     }
   ],
   "commitType": "docs"
