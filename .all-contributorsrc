@@ -90,6 +90,17 @@
         "content",
         "code"
       ]
+    },
+    {
+      "login": "valmag",
+      "name": "Valerio Maglianella",
+      "avatar_url": "https://avatars.githubusercontent.com/u/114005948?v=4",
+      "profile": "https://github.com/valmag",
+      "contributions": [
+        "bug",
+        "content",
+        "code"
+      ]
     }
   ],
   "commitType": "docs"
