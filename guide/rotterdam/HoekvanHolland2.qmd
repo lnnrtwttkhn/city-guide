@@ -1,0 +1,14 @@
+---
+title: "Visiting the Hoek van Holland"
+description: "The Hoek van Holland is a beautiful beach near Rotterdam"
+author:
+  - name: "Tine-tec"
+    url: "https://github.com/Tine-tec"
+# you can add more categories here (please add one category per line):
+categories:
+  - Template
+---
+
+The Hoek van Holland is located near Rotterdam and is a popular place to vacation.
+
+It has nice, sandy beaches where you can relax. You should definitely check this out, when you're in the region! Especially during summer, it is a very nice place to stay and spend time!
