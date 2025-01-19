@@ -1,3 +1,4 @@
+---
 title: "a really great Franzbrötchen is sold at kleine konditorei in Eimsbüttel"
 description: "I recommend the Franzbrötchen at kleine konditorei in Eimsbüttel"
 author:
@@ -6,3 +7,7 @@ author:
 # you can add more categories here (please add one category per line):
 categories:
   - Template
+---
+
+The so called "kleine konditorei" is a bakery that sells excellent Franzbrötchen.
+You can find it at four different locations around the city, but I recommend (and only know) the one in Eimsbüttel. It's just when you exit U-Bahn (U2) Lutherotstraße, in Osterstraße 176. 
