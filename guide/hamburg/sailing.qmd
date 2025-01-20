@@ -1,0 +1,18 @@
+---
+title: "Sailing"
+description: "During the summer months you can go sailing on the Außenalster (which is a lake in the city center)"
+author:
+  - name: "jonaspautmeier"
+    url: "https://github.com/jonaspautmeier"
+categories:
+  - Activities 
+---
+
+##  Where
+
+If you have some sailing experience, it is easy to rent a sailing boat at one of the many sailing rental companies around the Außenalster. 
+I usually start at Bobby Reich in the north of the lake.
+
+## When 
+
+Unfortunately, there is lots of rain in Hamburg especially in fall, winter and spring. So check the weather forecast before. 
