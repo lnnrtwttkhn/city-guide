@@ -145,6 +145,17 @@
         "content",
         "code"
       ]
+    },
+    {
+      "login": "Tine-tec",
+      "name": "Tine-tec",
+      "avatar_url": "https://avatars.githubusercontent.com/u/186070250?v=4",
+      "profile": "https://github.com/Tine-tec",
+      "contributions": [
+        "bug",
+        "content",
+        "code"
+      ]
     }
   ],
   "commitType": "docs"
