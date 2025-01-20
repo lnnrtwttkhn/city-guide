@@ -6,8 +6,9 @@ author:
     url: "https://github.com/AlbertoTombaHH"
 # you can add more categories here (please add one category per line):
 categories:
-  - Template
+  - Food
 ---
 
 The so called "kleine konditorei" is a bakery that sells excellent Franzbrötchen.
-You can find it at four different locations around the city, but I recommend (and only know) the one in Eimsbüttel. It's just when you exit U-Bahn (U2) Lutherotstraße, in Osterstraße 176. 
+You can find it at four different locations around the city, but I recommend (and only know) the one in Eimsbüttel.
+It's just when you exit U-Bahn (U2) Lutherotstraße, in Osterstraße 176. 
