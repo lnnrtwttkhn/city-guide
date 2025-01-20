@@ -18,7 +18,7 @@
     "href": "index.html#rotterdam-guide",
     "title": "",
     "section": "Rotterdam Guide",
-    "text": "Rotterdam Guide\n\n\n\n\n\n\n\n\n\n\nDe Doelen\n\n\n\n\n\n\nPlaces to visit\n\n\n\nPlace to have fun in Rotterdam\n\n\n\n\n\nShuangyuanWei\n\n\nJanuary 17, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nItalian restaurants in Rotterdam\n\n\n\n\n\n\nRestaurants\n\n\n\nAdding a recommendation for Italian restaurants in Rotterdam\n\n\n\n\n\nvalmag\n\n\nJanuary 17, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nRotterdam guide book\n\n\n\n\n\n\nFood and chill\n\n\n\nPlaces to go when visiting Rotterdam!\n\n\n\n\n\njoyce-shi-github\n\n\nJanuary 13, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nAsian Restaurant\n\n\n\n\n\n\nRestaurant\n\n\n\nAsian restaurant recommendations in Rotterdam\n\n\n\n\n\nTingsterr\n\n\nJanuary 13, 2025\n\n\n\n\n\n\nNo matching items"
+    "text": "Rotterdam Guide\n\n\n\n\n\n\n\n\n\n\nVisiting the Hoek van Holland\n\n\n\n\n\n\nOutdoor\n\n\n\nThe Hoek van Holland is a beautiful beach near Rotterdam\n\n\n\n\n\nTine-tec\n\n\nJanuary 20, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nDe Doelen\n\n\n\n\n\n\nPlaces to visit\n\n\n\nPlace to have fun in Rotterdam\n\n\n\n\n\nShuangyuanWei\n\n\nJanuary 17, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nItalian restaurants in Rotterdam\n\n\n\n\n\n\nRestaurants\n\n\n\nAdding a recommendation for Italian restaurants in Rotterdam\n\n\n\n\n\nvalmag\n\n\nJanuary 17, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nRotterdam guide book\n\n\n\n\n\n\nFood and chill\n\n\n\nPlaces to go when visiting Rotterdam!\n\n\n\n\n\njoyce-shi-github\n\n\nJanuary 13, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nAsian Restaurant\n\n\n\n\n\n\nRestaurant\n\n\n\nAsian restaurant recommendations in Rotterdam\n\n\n\n\n\nTingsterr\n\n\nJanuary 13, 2025\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "guide/hamburg/alstercanals.html",
@@ -98,18 +98,39 @@
     "text": "Rotterdam is a pretty international city, featuring restaurants originating from all over the world. Below are some Asian restaurants that are quite popular among the Asians in the city.\n\nSeoul Sista Seoul Sista is an all-you-can-eat Korean BBQ. Our Korean colleague said it’s ‘authentic enough’\nSoju Bar Also a Korean restaurant but this time for fried chicken. It is said that their Bibimbap is great as well. Very popular\nLe Souq Nice and authentic Lebanese restaurant that all my colleagues love :) They offer various sorts of appetizers/starters that you could explore all different flavors."
   },
   {
-    "objectID": "guide/rotterdam/italian-restaurant.html",
-    "href": "guide/rotterdam/italian-restaurant.html",
-    "title": "Italian restaurants in Rotterdam",
+    "objectID": "guide/rotterdam/recommendations-zhuoyu.html",
+    "href": "guide/rotterdam/recommendations-zhuoyu.html",
+    "title": "Rotterdam guide book",
     "section": "",
-    "text": "There are a couple of nice Italian restaurants that could be added to the city guide for Rotterdam:\n\nOld Scuola: available in two locations (Centre, West), you can find great pizza here and a nice selection of appetizers.\nPanzerò: very close to the Marktal, here you can find traditional panzerotti from Puglia (South Italy) which are very good small fried pizzas filled with delicious ingredients!"
+    "text": "walk along the Nieuwe maas river.\n\ngo to visit Kijk-Kubus for cube houses."
   },
   {
-    "objectID": "guide/template.html",
-    "href": "guide/template.html",
-    "title": "Your recommendation goes here",
+    "objectID": "guide/rotterdam/recommendations-zhuoyu.html#place-to-go",
+    "href": "guide/rotterdam/recommendations-zhuoyu.html#place-to-go",
+    "title": "Rotterdam guide book",
     "section": "",
-    "text": "A detailed description of your recommendation goes here.\nFor example, you could describe more details of your recommendation and where to find it in the city."
+    "text": "walk along the Nieuwe maas river.\n\ngo to visit Kijk-Kubus for cube houses."
+  },
+  {
+    "objectID": "guide/rotterdam/recommendations-zhuoyu.html#place-to-eat",
+    "href": "guide/rotterdam/recommendations-zhuoyu.html#place-to-eat",
+    "title": "Rotterdam guide book",
+    "section": "Place to eat",
+    "text": "Place to eat\n\nMarkthal is a place with different types of food and souvenir gifts."
+  },
+  {
+    "objectID": "guide/rotterdam/de-doelen.html",
+    "href": "guide/rotterdam/de-doelen.html",
+    "title": "De Doelen",
+    "section": "",
+    "text": "“De Doelen is a concert venue and convention centre in Rotterdam, Netherlands.”"
+  },
+  {
+    "objectID": "guide/rotterdam/de-doelen.html#what",
+    "href": "guide/rotterdam/de-doelen.html#what",
+    "title": "De Doelen",
+    "section": "",
+    "text": "“De Doelen is a concert venue and convention centre in Rotterdam, Netherlands.”"
   },
   {
     "objectID": "CONTRIBUTING.html",
@@ -133,39 +154,25 @@
     "text": "By contributing to this project, you agree that your contributions will be licensed under its MIT License.\nThank you for your contributions! Together, we can make this project even better."
   },
   {
-    "objectID": "guide/rotterdam/de-doelen.html",
-    "href": "guide/rotterdam/de-doelen.html",
-    "title": "De Doelen",
+    "objectID": "guide/template.html",
+    "href": "guide/template.html",
+    "title": "Your recommendation goes here",
     "section": "",
-    "text": "“De Doelen is a concert venue and convention centre in Rotterdam, Netherlands.”"
+    "text": "A detailed description of your recommendation goes here.\nFor example, you could describe more details of your recommendation and where to find it in the city."
   },
   {
-    "objectID": "guide/rotterdam/de-doelen.html#what",
-    "href": "guide/rotterdam/de-doelen.html#what",
-    "title": "De Doelen",
+    "objectID": "guide/rotterdam/italian-restaurant.html",
+    "href": "guide/rotterdam/italian-restaurant.html",
+    "title": "Italian restaurants in Rotterdam",
     "section": "",
-    "text": "“De Doelen is a concert venue and convention centre in Rotterdam, Netherlands.”"
+    "text": "There are a couple of nice Italian restaurants that could be added to the city guide for Rotterdam:\n\nOld Scuola: available in two locations (Centre, West), you can find great pizza here and a nice selection of appetizers.\nPanzerò: very close to the Marktal, here you can find traditional panzerotti from Puglia (South Italy) which are very good small fried pizzas filled with delicious ingredients!"
   },
   {
-    "objectID": "guide/rotterdam/recommendations-zhuoyu.html",
-    "href": "guide/rotterdam/recommendations-zhuoyu.html",
-    "title": "Rotterdam guide book",
+    "objectID": "guide/rotterdam/HoekvanHolland.html",
+    "href": "guide/rotterdam/HoekvanHolland.html",
+    "title": "Visiting the Hoek van Holland",
     "section": "",
-    "text": "walk along the Nieuwe maas river.\n\ngo to visit Kijk-Kubus for cube houses."
-  },
-  {
-    "objectID": "guide/rotterdam/recommendations-zhuoyu.html#place-to-go",
-    "href": "guide/rotterdam/recommendations-zhuoyu.html#place-to-go",
-    "title": "Rotterdam guide book",
-    "section": "",
-    "text": "walk along the Nieuwe maas river.\n\ngo to visit Kijk-Kubus for cube houses."
-  },
-  {
-    "objectID": "guide/rotterdam/recommendations-zhuoyu.html#place-to-eat",
-    "href": "guide/rotterdam/recommendations-zhuoyu.html#place-to-eat",
-    "title": "Rotterdam guide book",
-    "section": "Place to eat",
-    "text": "Place to eat\n\nMarkthal is a place with different types of food and souvenir gifts."
+    "text": "The Hoek van Holland is located near Rotterdam and is a popular place to vacation.\nIt has nice, sandy beaches where you can relax. You should definitely check this out, when you’re in the region! Especially during summer, it is a very nice place to stay and spend time!"
   },
   {
     "objectID": "guide/hamburg/invictusgym.html",
