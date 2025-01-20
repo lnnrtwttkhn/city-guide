@@ -156,6 +156,17 @@
         "content",
         "code"
       ]
+    },
+    {
+      "login": "jonaspautmeier",
+      "name": "Jonas Pautmeier",
+      "avatar_url": "https://avatars.githubusercontent.com/u/190828863?v=4",
+      "profile": "https://github.com/jonaspautmeier",
+      "contributions": [
+        "bug",
+        "content",
+        "code"
+      ]
     }
   ],
   "commitType": "docs"
