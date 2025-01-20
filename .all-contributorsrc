@@ -134,6 +134,17 @@
         "content",
         "bug"
       ]
+    },
+    {
+      "login": "AlbertoTombaHH",
+      "name": "AlbertoTombaHH",
+      "avatar_url": "https://avatars.githubusercontent.com/u/190831102?v=4",
+      "profile": "https://github.com/AlbertoTombaHH",
+      "contributions": [
+        "bug",
+        "content",
+        "code"
+      ]
     }
   ],
   "commitType": "docs"
