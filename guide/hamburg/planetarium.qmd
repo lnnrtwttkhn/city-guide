@@ -1,6 +1,6 @@
 ---
 title: "Planetarium Hamburg"
-description: "Das Planetarium mit Shows und Veranstaltungen"
+description: "The planetarium with shows and events"
 author:
   - name: "victoriahoff"
     url: "github.com/victoriahoff"
@@ -9,4 +9,4 @@ categories:
   - Activities
 ---
 
-Das Planetarium Hamburg im Hamburger Stadtpark, aktuelles Programm und Veranstaltungen auf deren Website.
+The Hamburg Planetarium in Hamburg Stadtpark, current program and events on their website.
