@@ -178,6 +178,17 @@
         "content",
         "code"
       ]
+    },
+    {
+      "login": "victoriahoff",
+      "name": "victoriahoff",
+      "avatar_url": "https://avatars.githubusercontent.com/u/191519518?v=4",
+      "profile": "https://github.com/victoriahoff",
+      "contributions": [
+        "bug",
+        "content",
+        "code"
+      ]
     }
   ],
   "commitType": "docs"
