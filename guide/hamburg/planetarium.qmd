@@ -1,0 +1,12 @@
+---
+title: "Planetarium Hamburg"
+description: "The planetarium with shows and events"
+author:
+  - name: "victoriahoff"
+    url: "github.com/victoriahoff"
+# you can add more categories here (please add one category per line):
+categories:
+  - Activities
+---
+
+The Hamburg Planetarium in Hamburg Stadtpark, current program and events on their website.
