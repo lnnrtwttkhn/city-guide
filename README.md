@@ -39,6 +39,9 @@ Please see my [Contributing Guidelines](CONTRIBUTING.md) for more information on
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/jonaspautmeier"><img src="https://avatars.githubusercontent.com/u/190828863?v=4?s=100" width="100px;" alt="Jonas Pautmeier"/><br /><sub><b>Jonas Pautmeier</b></sub></a><br /><a href="https://github.com/lnnrtwttkhn/city-guide/issues?q=author%3Ajonaspautmeier" title="Bug reports">🐛</a> <a href="#content-jonaspautmeier" title="Content">🖋</a> <a href="https://github.com/lnnrtwttkhn/city-guide/commits?author=jonaspautmeier" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/CarFis84"><img src="https://avatars.githubusercontent.com/u/190826486?v=4?s=100" width="100px;" alt="CarFis84"/><br /><sub><b>CarFis84</b></sub></a><br /><a href="https://github.com/lnnrtwttkhn/city-guide/issues?q=author%3ACarFis84" title="Bug reports">🐛</a> <a href="#content-CarFis84" title="Content">🖋</a> <a href="https://github.com/lnnrtwttkhn/city-guide/commits?author=CarFis84" title="Code">💻</a></td>
     </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/victoriahoff"><img src="https://avatars.githubusercontent.com/u/191519518?v=4?s=100" width="100px;" alt="victoriahoff"/><br /><sub><b>victoriahoff</b></sub></a><br /><a href="https://github.com/lnnrtwttkhn/city-guide/issues?q=author%3Avictoriahoff" title="Bug reports">🐛</a> <a href="#content-victoriahoff" title="Content">🖋</a> <a href="https://github.com/lnnrtwttkhn/city-guide/commits?author=victoriahoff" title="Code">💻</a></td>
+    </tr>
   </tbody>
 </table>
 
