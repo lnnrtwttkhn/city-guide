@@ -167,6 +167,17 @@
         "content",
         "code"
       ]
+    },
+    {
+      "login": "CarFis84",
+      "name": "CarFis84",
+      "avatar_url": "https://avatars.githubusercontent.com/u/190826486?v=4",
+      "profile": "https://github.com/CarFis84",
+      "contributions": [
+        "bug",
+        "content",
+        "code"
+      ]
     }
   ],
   "commitType": "docs"
