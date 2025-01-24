@@ -1,0 +1,14 @@
+---
+title: "Schroedingers"
+description: "Schrödingers im Schanzenpark"
+author:
+  - name: "niklasbern"
+    url: "https://github.com/Niklasbern/"
+# you can add more categories here (please add one category per line):
+categories:
+  - event
+---
+
+Schrødingers in Hamburg is a versatile cultural venue located in the Schanzenpark.
+It offers event spaces for private celebrations, social projects like food distribution and refugee support, and cultural events such as concerts and markets.
+Combining culture, community, and social engagement, it’s a vibrant meeting place.
