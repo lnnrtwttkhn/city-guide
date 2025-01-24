@@ -200,6 +200,16 @@
         "content",
         "code"
       ]
+    },
+    {
+      "login": "Niklasbern",
+      "name": "Niklasbern",
+      "avatar_url": "https://avatars.githubusercontent.com/u/190826410?v=4",
+      "profile": "https://github.com/Niklasbern",
+      "contributions": [
+        "content",
+        "code"
+      ]
     }
   ],
   "commitType": "docs"
