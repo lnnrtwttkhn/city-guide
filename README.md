@@ -42,6 +42,7 @@ Please see my [Contributing Guidelines](CONTRIBUTING.md) for more information on
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/victoriahoff"><img src="https://avatars.githubusercontent.com/u/191519518?v=4?s=100" width="100px;" alt="victoriahoff"/><br /><sub><b>victoriahoff</b></sub></a><br /><a href="https://github.com/lnnrtwttkhn/city-guide/issues?q=author%3Avictoriahoff" title="Bug reports">🐛</a> <a href="#content-victoriahoff" title="Content">🖋</a> <a href="https://github.com/lnnrtwttkhn/city-guide/commits?author=victoriahoff" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/JulEsters"><img src="https://avatars.githubusercontent.com/u/191474469?v=4?s=100" width="100px;" alt="JulEsters"/><br /><sub><b>JulEsters</b></sub></a><br /><a href="https://github.com/lnnrtwttkhn/city-guide/issues?q=author%3AJulEsters" title="Bug reports">🐛</a> <a href="#content-JulEsters" title="Content">🖋</a> <a href="https://github.com/lnnrtwttkhn/city-guide/commits?author=JulEsters" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Niklasbern"><img src="https://avatars.githubusercontent.com/u/190826410?v=4?s=100" width="100px;" alt="Niklasbern"/><br /><sub><b>Niklasbern</b></sub></a><br /><a href="#content-Niklasbern" title="Content">🖋</a> <a href="https://github.com/lnnrtwttkhn/city-guide/commits?author=Niklasbern" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
