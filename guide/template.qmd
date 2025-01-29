@@ -1,14 +1,12 @@
 ---
-title: "Your recommendation goes here"
-description: "A short description of your recommendation goes here"
+title: "Bean There"
+description: "Cute specialty coffee shop in Hamburg Winterhude is missing."
 author:
-  - name: "Your GitHub user name goes here"
-    url: "The URL to your GitHub profile goes here"
-# you can add more categories here (please add one category per line):
+  - name: "marypie33"
+    url: "git@github.com:marypie33/city-guide.git"
 categories:
-  - Template
+  - Coffee Shop
 ---
 
-A detailed description of your recommendation goes here.
-
-For example, you could describe more details of your recommendation and where to find it in the city.
+The coffee shop is part of the "Neo Taste" app. You can get two "coffees + cinnamon rolls" for the price of one menu.
+Bean There, Forsmannstraße 27, 22303 Hamburg..
