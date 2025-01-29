@@ -1,0 +1,12 @@
+---
+title: "Bean There"
+description: "Cute specialty coffee shop in Hamburg Winterhude is missing."
+author:
+  - name: "marypie33"
+    url: "git@github.com:marypie33/city-guide.git"
+categories:
+  - Coffee Shop
+---
+
+The coffee shop is part of the "Neo Taste" app. You can get two "coffees + cinnamon rolls" for the price of one menu.
+Bean There, Forsmannstraße 27, 22303 Hamburg..
