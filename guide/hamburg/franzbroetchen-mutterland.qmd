@@ -1,0 +1,16 @@
+title: "Best Franzbrötchen in town"
+description: "If you want to try a typical Hamburg sweet, you should go to Mutterland and enjoy a Franzbrötchen"
+author:
+  - name: "juliamoewert"
+    url: "https://github.com/juliamoewert"
+# you can add more categories here (please add one category per line):
+categories: 
+  - Food
+---
+
+A Franzbrötchen is a traditional sweet pastry from Hamburg, Germany.
+It resembles a flattened cinnamon roll, made with buttery dough, generously filled with sugar and cinnamon, and sometimes topped with raisins or chocolate.
+Its texture is flaky and soft, similar to a croissant.
+
+The store Mutterland is located in Hamburg and has multiple branches.
+One popular location is near Hamburg's central train station (Hauptbahnhof), at Ernst-Merck-Straße 9, known for its focus on high-quality, regional products and specialty foods, including Franzbrötchen.
