@@ -210,6 +210,17 @@
         "content",
         "code"
       ]
+    },
+    {
+      "login": "juliamoewert",
+      "name": "juliamoewert",
+      "avatar_url": "https://avatars.githubusercontent.com/u/190774096?v=4",
+      "profile": "https://github.com/juliamoewert",
+      "contributions": [
+        "bug",
+        "content",
+        "code"
+      ]
     }
   ],
   "commitType": "docs"
