@@ -243,6 +243,17 @@
         "content",
         "code"
       ]
+    },
+    {
+      "login": "ameliebrhfn",
+      "name": "ameliebrhfn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/190830029?v=4",
+      "profile": "https://github.com/ameliebrhfn",
+      "contributions": [
+        "bug",
+        "content",
+        "code"
+      ]
     }
   ],
   "commitType": "docs"
