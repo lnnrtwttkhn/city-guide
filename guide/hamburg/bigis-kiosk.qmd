@@ -1,0 +1,12 @@
+---
+title: "Bigi's Kiosk in Hamburg"
+description: "This is the best Kiosk in the whole city. It is close to Palas on the Schanze and the owner is the cutest guy. He will quickly start referring to you as a family member and has the best jokes. 10/10, always a fun stop for a night out."
+author:
+  - name: "ameliebrhfn"
+    url: "https://github.com/ameliebrhfn/"
+# you can add more categories here (please add one category per line):
+categories:
+  - Kisok
+---
+
+This is the best Kiosk in the whole city. It is close to Palas on the Schanze and the owner is the cutest guy. He will quickly start referring to you as a family member and has the best jokes. 10/10, always a fun stop for a night out.
