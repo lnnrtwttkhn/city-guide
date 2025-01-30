@@ -1,0 +1,16 @@
+---
+title: "Remastered"
+description: "An immersive experience created by Dutch digital artists"
+author:
+  - name: sepehr-e
+    url: https://github.com/sepehr-e
+categories:
+  - Things to Do
+---
+
+## What is Remastered?
+
+> "Experience what you have never experienced before. The old Dutch Masters reimagined by the new Dutch Masters. The very best Dutch digital artists have created a new world. A world where you go on parade with the unearthly creatures of Jeroen Bosch, get immersed in the colourful scenes of Van Gogh and dance on the beat of Mondrian’s 'Victory Boogie Woogie'.
+This unique 60-minute experience also includes walking through a waterfall, making your own UFO fly on a gigantic LED Screen, interacting with schools of fish and sailing through the clouds."
+
+Text from [remastered.nl](https://remastered.nl/en/home/)
