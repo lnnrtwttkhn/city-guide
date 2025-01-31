@@ -1,14 +1,10 @@
 ---
 title: "Your recommendation goes here"
 description: "A short description of your recommendation goes here"
-author:
+author: Julia Sadzik
   - name: "Your GitHub user name goes here"
     url: "The URL to your GitHub profile goes here"
 # you can add more categories here (please add one category per line):
-categories:
+categories: sights
   - Template
----
-
-A detailed description of your recommendation goes here.
-
-For example, you could describe more details of your recommendation and where to find it in the city.
+1go to the Miniaturwunderland to visit tiny figures and sights from around the whole world
